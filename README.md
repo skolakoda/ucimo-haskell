@@ -15,12 +15,12 @@ sudo apt-get install haskell-platform
 
 ## Pokretanje
 
-Interpreter komandne linije (`Prelude`) se pokreće komandom:
+Interpreter komandne linije (nazvan `Prelude`) se pokreće komandom:
 
 ```
 ghci
 ```
-Izlazi se komandom:
+Iz njega se izlazi komandom:
 ```
 :quit
 ```
