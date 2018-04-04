@@ -15,6 +15,8 @@ sudo apt-get install haskell-platform
 
 Za Windows postoji [installer](https://www.haskell.org/platform/).
 
+Ili koristi [online kompajler](https://www.tutorialspoint.com/compile_haskell_online.php).
+
 ## Pokretanje
 
 Interpreter komandne linije (nazvan `Prelude`) se pokreće komandom:
