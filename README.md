@@ -13,6 +13,8 @@ Linux (Ubuntu/Debian/Mint):
 sudo apt-get install haskell-platform
 ```
 
+Za Windows postoji [installer](https://www.haskell.org/platform/).
+
 ## Pokretanje
 
 Interpreter komandne linije (nazvan `Prelude`) se pokreće komandom:
