@@ -29,6 +29,12 @@ Iz njega se izlazi komandom:
 :quit
 ```
 
+Fajlove je moguće pokretati bez kompajliranja na sledeći način:
+
+```
+runghc zdravo.hs
+```
+
 ## Kompajliranje
 
 Haskel fajl se kompajlira na sledeći način:
