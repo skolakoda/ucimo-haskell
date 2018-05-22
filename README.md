@@ -150,7 +150,7 @@ The second example used zip, a library function that turns two lists into a list
 Primeri
 
 ```hs
-map abs [-1,-3,4,-12] 
+map abs [5,-3,-6,7,-3,2,-19,24]
 map reverse ["abc","cda","1234"]
 map (1+) [1,2,3,4]
 map (3*) [1,2,3,4]
