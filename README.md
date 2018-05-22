@@ -144,3 +144,18 @@ Prelude> zip [1 .. 5] ['a' .. 'e']
 ```
 
 The second example used zip, a library function that turns two lists into a list of tuples.
+
+## Map funkcija
+
+Primeri
+
+```hs
+map abs [-1,-3,4,-12] 
+map reverse ["abc","cda","1234"]
+map (1+) [1,2,3,4]
+map (3*) [1,2,3,4]
+map (+7) [2,8,9,3]
+map (++ "!") ["BIFF", "BANG", "POW"]
+map (replicate 3) [3..6]
+map fst [(1,2),(3,5),(6,3),(2,6),(2,5)]
+```
