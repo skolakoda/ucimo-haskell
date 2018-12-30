@@ -8,5 +8,5 @@ ghci
 Sada nam je funkcija dostupna:
 
 ```
-saberi 2323 + 34
+saberi 2323 34
 ```
