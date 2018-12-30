@@ -60,8 +60,6 @@ Program se nakon toga izvršava:
 You can type most math expressions directly into ghci and get an answer:
 
 ```
-Prelude> 3 * 5
-15
 Prelude> 4 ^ 2 - 1
 15
 ```
@@ -69,10 +67,8 @@ Prelude> 4 ^ 2 - 1
 Calling functions is done by putting the arguments directly after the function:
 
 ```
-Prelude> round 6.59
-7
-Prelude> sqrt 2
-1.4142135623730951
+Prelude> sqrt 16
+4.0
 Prelude> not (5 < 3)
 True
 Prelude> gcd 21 14
@@ -143,7 +139,7 @@ Prelude> zip [1 .. 5] ['a' .. 'e']
 [(1,'a'),(2,'b'),(3,'c'),(4,'d'),(5,'e')]
 ```
 
-The second example used zip, a library function that turns two lists into a list of tuples.
+`zip` function turns two lists into a list of tuples.
 
 ## Map funkcija
 
