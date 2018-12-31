@@ -1,3 +1,4 @@
-paranIliNeparanZbir xs = if even (sum xs) then "even" else "odd"
+rev [] = []
+rev (h:t) = rev t ++ [h]
 
-main = print(paranIliNeparanZbir [2,5,34,6])
+main = print(rev [1, 2, 3, 4, 5])

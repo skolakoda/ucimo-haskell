@@ -2,7 +2,7 @@
 
 Haskell je čisto funkcionalni programski jezik opšte namene.
 
-Kratki kurs za upoznavanje: [Learn You Haskell](http://learnyouahaskell.com/starting-out#ready-set-go)
+Kratki kurs za upoznavanje: [Learn You Haskell](http://learnyouahaskell.com/starting-out#babys-first-functions)
 
 Probaj Haskel online: http://tryhaskell.org/
 
