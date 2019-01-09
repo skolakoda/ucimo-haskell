@@ -1,6 +1,4 @@
-main =
-  getLine >>= putStrLn . redukuj
+najkracaRec :: String -> Int
+najkracaRec = minimum . map length . words
 
-redukuj :: String -> String
-redukuj [] = []
-redukuj (x:xs) = x:redukuj (filter ((/=) x) xs)
+main = print(najkracaRec "zdravo dobri svete da da")
